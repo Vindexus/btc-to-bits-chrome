@@ -1,5 +1,7 @@
 # BTC to bits Chrome extension
-Chrome extension that converts Bitcoin amounts to bits, which are one 1 millionth of a bitcoin.
+Chrome extension that converts Bitcoin amounts to bits, which are one 1 millionth of a bitcoin. 
+
+Inspired by [Bitcoin Improvement Proposal 0176](https://github.com/bitcoin/bips/blob/master/bip-0176.mediawiki).
 
 ## Example
 

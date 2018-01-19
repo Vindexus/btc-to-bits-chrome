@@ -16,3 +16,7 @@ becomes
  - Enable "Developer mode"
  - Click 'Load unpacked extension'
  - Select the folder you extraced to
+
+## License
+
+MIT

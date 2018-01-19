@@ -16,3 +16,4 @@ Use this page to see if the btc amounts are being replaced correctly.
 |1,000,000 bits (1 BTC)|
 |2,000,000 bits (2 bitcoins)|
 |12,500,000 bits (12,5btc)|
+|Yes, bitcoin is good|

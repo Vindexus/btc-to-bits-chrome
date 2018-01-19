@@ -5,7 +5,7 @@ Inspired by [Bitcoin Improvement Proposal 0176](https://github.com/bitcoin/bips/
 
 ## Example
 
->I just sent 0.55 btc to a friend.
+>![](https://i.imgur.com/9kFBuZN.png)
 
 becomes
 

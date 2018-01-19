@@ -11,6 +11,9 @@ Use this page to see if the btc amounts are being replaced correctly.
 |0.1bitcoin|zero point one bitcoins|
 |0.005btc|five one thousandths of a bitcoin|
 
+# A list
+Trades should usually not be advertised here. For example, submissions like "Buying 100 BTC" or "Selling my computer for bitcoins" do not belong here. <a href="/r/Bitcoin">/r/Bitcoin</a> is primarily for news and discussion.
+
 |To Be Skipped|
 |-|
 |1,000,000 bits (1 BTC)|

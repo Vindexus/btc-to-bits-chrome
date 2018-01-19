@@ -1,10 +1,11 @@
-(function () {function textNodesUnder(el){
+(function () {
+function textNodesUnder(el){
   var n, a=[], walk=document.createTreeWalker(el,NodeFilter.SHOW_ELEMENT,null,false);
   while(n=walk.nextNode()) a.push(n);
   return a;
 }
 
-var reg = new RegExp(/([0-9,]?\.?[0-9,]+?)\s?(btc|bitcoins|bitcoin)/gi);
+var reg = new RegExp(/(bits \()?([0-9,.]+)\s?(btc|bitcoins|bitcoin)/gi);
 var texts = textNodesUnder(document.body);
 var totalReplaced = 0;
 texts.forEach(function (node) {
@@ -15,11 +16,11 @@ texts.forEach(function (node) {
     var btcPlaceholder = {};
     do {
       match = reg.exec(node.innerText);
-      if(match != null && match[1] != ',') {
+      if(match != null && match[2] != ',' && !match[1]) {
         hasMatches = true;
         var btcPrice = match[0];
 
-        var numparts = match[1].split(',');
+        var numparts = match[2].split(',');
         var numstr = "";
 
         //Here I am trying to detect someone writing "12,5" and meaning 12.5
@@ -27,7 +28,7 @@ texts.forEach(function (node) {
           numstr = numparts.join('.');
         }
         else {
-          numstr = numparts.join(',');
+          numstr = numparts.join('');
         }
 
         var num = new Number(numstr);

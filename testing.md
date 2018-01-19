@@ -10,3 +10,9 @@ Use this page to see if the btc amounts are being replaced correctly.
 |50,000 BTC|fifty thousand bitcoins|
 |0.1bitcoin|zero point one bitcoins|
 |0.005btc|five one thousandths of a bitcoin|
+
+|To Be Skipped|
+|-|
+|1,000,000 bits (1 BTC)|
+|2,000,000 bits (2 bitcoins)|
+|12,500,000 bits (12,5btc)|

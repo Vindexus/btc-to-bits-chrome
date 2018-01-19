@@ -13,11 +13,11 @@ becomes
 
 ## Installation
 
- - Download and extra the zip to a folder.
- - Go to `chrome://extensions` in Chrome
+ - [Download the ZIP](https://github.com/Vindexus/btc-to-bits-chrome/archive/master.zip) and extract it
+ - Navigate to `chrome://extensions` in Chrome
  - Enable "Developer mode"
- - Click 'Load unpacked extension'
- - Select the folder you extraced to
+ - Click "Load unpacked extension..." button
+ - Select the folder you extracted to
 
 ## License
 

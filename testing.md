@@ -12,6 +12,9 @@ Use this page to see if the btc amounts are being replaced correctly.
 |0.005btc|five one thousandths of a bitcoin|
 |In quotes "Buying 100 BTC"|In quotes "Buying one hundred BTC"|
 
+>Trades should usually not be advertised here. For example, submissions like "Buying 100 BTC" or "Selling my computer for bitcoins" do not belong here. <a href="/r/Bitcoin">/r/Bitcoin</a> is primarily for news and discussion.
+
+
 |To Be Skipped|
 |-|
 |1,000,000 bits (1 BTC)|

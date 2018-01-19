@@ -6,7 +6,7 @@ Use this page to see if the btc amounts are being replaced correctly.
 |1 bitcoin|one bitcoin|  
 |2 bitcoins|two bitcoins|
 |2.5 btc|two point five bitcoins|
-|12,5|twelve point five bitcoins|
+|12,5 bitcoin|twelve point five bitcoins|
 |50,000 BTC|fifty thousand bitcoins|
 |0.1bitcoin|zero point one bitcoins|
 |0.005btc|five one thousandths of a bitcoin|

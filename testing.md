@@ -10,6 +10,10 @@ Use this page to see if the btc amounts are being replaced correctly.
 |50,000 BTC|fifty thousand bitcoins|
 |0.1bitcoin|zero point one bitcoins|
 |0.005btc|five one thousandths of a bitcoin|
+|In quotes "Buying 100 BTC"|In quotes "Buying one hundred BTC"|
+
+>Trades should usually not be advertised here. For example, submissions like "Buying 100 BTC" or "Selling my computer for bitcoins" do not belong here. <a href="/r/Bitcoin">/r/Bitcoin</a> is primarily for news and discussion.
+
 
 |To Be Skipped|
 |-|

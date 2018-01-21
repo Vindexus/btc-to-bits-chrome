@@ -13,7 +13,7 @@ becomes
 
 ## Installation
 
- - [Download the ZIP](https://github.com/Vindexus/btc-to-bits-chrome/archive/master.zip) and extract it
+ - [Download the ZIP](https://github.com/Vindexus/btc-to-bits-chrome/archive/1.0.zip) and extract it
  - Navigate to `chrome://extensions` in Chrome
  - Enable "Developer mode"
  - Click "Load unpacked extension..." button
